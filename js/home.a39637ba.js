@@ -125,7 +125,7 @@
 						staticClass: "major-text"
 					}, [t._v("Zhaohui Peng")]), e("div", {
 						staticClass: "minor-text"
-					}, [t._v("Professor")]), e("div", {
+					}, [t._v("Undergraduate Student")]), e("div", {
 						staticClass: "icon-list"
 					}, [e("a", {
 						attrs: {
@@ -174,7 +174,7 @@
 						staticClass: "profile-card"
 					}, [t._m(3), e("div", {
 						staticClass: "major-text"
-					}, [t._v("Yongcan Yu")]), e("div", {
+					}, [t._v("Yiyang Fang")]), e("div", {
 						staticClass: "minor-text"
 					}, [t._v("Undergraduate Student")]), e("div", {
 						staticClass: "icon-list"
@@ -225,7 +225,7 @@
 						staticClass: "profile-card"
 					}, [t._m(4), e("div", {
 						staticClass: "major-text"
-					}, [t._v("Zangchuan Chao")]), e("div", {
+					}, [t._v("Chuanchao Zang")]), e("div", {
 						staticClass: "minor-text"
 					}, [t._v("Undergraduate Student")]), e("div", {
 						staticClass: "icon-list"
