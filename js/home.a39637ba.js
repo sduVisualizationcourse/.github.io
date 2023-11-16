@@ -123,7 +123,7 @@
 						staticClass: "profile-card"
 					}, [t._m(2), e("div", {
 						staticClass: "major-text"
-					}, [t._v("Zhaohui Peng")]), e("div", {
+					}, [t._v("WenSong Xu")]), e("div", {
 						staticClass: "minor-text"
 					}, [t._v("Undergraduate Student")]), e("div", {
 						staticClass: "icon-list"
